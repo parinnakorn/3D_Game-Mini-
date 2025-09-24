@@ -1,0 +1,129 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://bke3bg8qid30p"
+path="res://.godot/imported/UndertheSea.glb-5737a30d8dd36b836e8b42be6cbd1987.scn"
+
+[deps]
+
+source_file="res://asset/UndertheSea.glb"
+dest_files=["res://.godot/imported/UndertheSea.glb-5737a30d8dd36b836e8b42be6cbd1987.scn"]
+
+[params]
+
+nodes/root_type=""
+nodes/root_name=""
+nodes/root_script=null
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+nodes/import_as_skeleton_bones=false
+nodes/use_name_suffixes=true
+nodes/use_node_type_suffixes=true
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+animation/import_rest_as_RESET=false
+import_script/path=""
+materials/extract=0
+materials/extract_format=0
+materials/extract_path=""
+_subresources={
+"nodes": {
+"PATH:group109194806": {
+"generate/physics": true
+},
+"PATH:group1172106769": {
+"generate/physics": true
+},
+"PATH:group122302619": {
+"generate/physics": true
+},
+"PATH:group1367773465": {
+"generate/physics": true
+},
+"PATH:group1450045553": {
+"generate/physics": true
+},
+"PATH:group1514700289": {
+"generate/physics": true
+},
+"PATH:group1514744309": {
+"generate/physics": true
+},
+"PATH:group1661820606": {
+"generate/physics": true
+},
+"PATH:group166787349": {
+"generate/physics": true
+},
+"PATH:group1745932790": {
+"generate/physics": true
+},
+"PATH:group1859506793": {
+"generate/physics": true
+},
+"PATH:group2006633998": {
+"generate/physics": true
+},
+"PATH:group2014525625": {
+"generate/physics": true
+},
+"PATH:group2055988609": {
+"generate/physics": true
+},
+"PATH:group2141108688": {
+"generate/physics": true
+},
+"PATH:group346353283": {
+"generate/physics": true
+},
+"PATH:group382973645": {
+"generate/physics": true
+},
+"PATH:group408322312": {
+"generate/physics": true
+},
+"PATH:group520822650": {
+"generate/physics": true
+},
+"PATH:group612392218": {
+"generate/physics": true
+},
+"PATH:group685469970": {
+"generate/physics": true
+},
+"PATH:group699823051": {
+"generate/physics": true
+},
+"PATH:group704623174": {
+"generate/physics": true
+},
+"PATH:group795427728": {
+"generate/physics": true
+},
+"PATH:group810189517": {
+"generate/physics": true
+},
+"PATH:group938294867": {
+"generate/physics": true
+},
+"PATH:group967451051": {
+"generate/physics": true
+},
+"PATH:group97774442": {
+"generate/physics": true
+}
+}
+}
+gltf/naming_version=2
+gltf/embedded_image_handling=1
