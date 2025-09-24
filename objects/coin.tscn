@@ -107,6 +107,7 @@ shape = SubResource("SphereShape3D_bnkeq")
 [node name="Particles" type="GPUParticles3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.447834, 0)
 material_override = SubResource("StandardMaterial3D_6hm51")
+amount_ratio = 0.2078
 fixed_fps = 0
 process_material = SubResource("ParticleProcessMaterial_hyi47")
 draw_pass_1 = SubResource("QuadMesh_744xy")
